@@ -43,7 +43,7 @@ This project is ideal for learning **practical cryptography, secure file handlin
 ## Quick Start 
 ```bash 
 # Clone the repository
-git clone https://github.com/yafavdhirendra/ransomware_crypto.git
+git clone https://github.com/dhiruhacker/ransomware_crypto.git
 cd ransomeware_adv
 
 # run the main file
